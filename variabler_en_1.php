@@ -17,7 +17,7 @@ $meny_tekst_2 = "Minecraft Hosting";
 $meny_link_2 = "https://mcvert.net/portal/cart.php?gid=1";
 $meny_tekst_3 = "VPS Hosting";
 $meny_link_3 = "https://mcvert.net/portal/cart.php?gid=2";
-$meny_tekst_4 = "Dedikerte Servere";
+$meny_tekst_4 = "Dedicated Servers";
 $meny_link_4 = "https://mcvert.net/portal/cart.php?gid=3";
 $meny_tekst_5 = "Plugin Development";
 $meny_link_5 = "https://mcvert.net/portal/cart.php?gid=4";
@@ -37,7 +37,7 @@ $meny_tekst_12 = "Discord";
 $meny_link_12 = "https://discord.gg/V7Wgy9U";
 $meny_tekst_13 = "Customer Portal";
 $meny_link_13 = "https://mcvert.net/portal";
-$meny_tekst_14 = "Kundest&oslash;tte";
+$meny_tekst_14 = "Support";
 $meny_link_14 = "https://mcvert.net/portal/submitticket.php";
 $meny_tekst_15 = "Knowledgebase";
 $meny_link_15 = "https://mcvert.net/portal/index.php?rp=/knowledgebase";
@@ -60,27 +60,27 @@ $slider_link2 = "";
 
 	#Fordeler
 
-$f_title = "Kvalitetsrikt Minecraft Hosting";
+$f_title = "Quality Minecraft Hosting";
 $f_01 = "Distribuer din Minecraft Server hos oss, og merk forskjellen.";
 $f_02 = "H&oslash;y ytelse";
 $f_03 = "Vi opererer p&aring; h&oslash;y kvalitet og ytelsesfulle noder, med utvidet DDoS beskyttelse for &aring; sikre at v&aring;re noder alltid er online.";
-$f_04 = "Alltid online";
+$f_04 = "Always online";
 $f_05 = "V&aring;re tjenester tilbyr en 99,99% SLA oppetidsgaranti med full maskinvare og nettverksredundans for &aring; holde tjenestene dine online.";
-$f_06 = "Sikre Noder";
+$f_06 = "Secure Nodes";
 $f_07 = "Alle v&aring;re datasentre er Tier 4-sertifiserte og gir avansert brann- og inntrengningsbeskyttelse kombinert med maskinvare for enterprise networking.";
-$f_08 = "Umiddelbar aktivasjon";
+$f_08 = "Instant activation";
 $f_09 = "Ditt bestilte produkt blir automatisk og umiddelbart aktivert etter at v&aring;rt system mottar den f&oslash;rste betalingen.";
-$f_10 = "Dedikert Support";
+$f_10 = "Dedicated Support";
 $f_11 = "V&aring;rt team er dedikert og kan hjelpe deg med alt du trenger hjelp til. Som betalt kunde f&aring;r du fri tilgang til v&aring;r premium kundeservice.";
-$f_12 = "Full Automasjon";
+$f_12 = "Full Automation";
 $f_13 = "V&aring;rt system bruker de beste APIene for &aring; automatisere hver prosess, fra distribusjon av servere til &aring; motta IPN-meldinger.";
 
 	#Produkter
 	
-$p_title = "Fremhevede produkter";
-$p_01 = "V&aring;re mest anbefalte kvalitetsprodukter.";
+$p_title = "Highlights of our products";
+$p_01 = "Our most recommended quality products.";
 $p_02 = "VPS Hosting";
-$p_03 = "Passer for alle dine fordeler.";
+$p_03 = "Suitable for all your benefits.";
 $p_04 = "Kr 17,-";
 $p_05 = "/mnd";
 $p_06 = "SSD";
@@ -88,15 +88,15 @@ $p_07 = "Styrket disk";
 $p_08 = "Intel Xeon E5";
 $p_09 = "Prosessorer";
 $p_10 = "DDR4";
-$p_11 = "Ram Teknologi";
-$p_12 = "Drevet ved hjelp av SolusVM";
-$p_13 = "Dedikerte IP Adresser";
-$p_14 = "99.99% Oppetid SLA";
+$p_11 = "Ram Technology";
+$p_12 = "Powered by SolusVM";
+$p_13 = "Dedicated IP Addresses";
+$p_14 = "99.99% uptime SLA";
 $p_15 = "1000 Mbit Uplink";
-$p_16 = "Legg til i handlekurv";
-$p_17 = "Mest popul&aelig;r";
+$p_16 = "Add to cart";
+$p_17 = "Most popular";
 $p_18 = "Minecraft Hosting";
-$p_19 = "Kvalitetsrik hosting for din Minecraft Server";
+$p_19 = "Quality hosting for your Minecraft Server";
 $p_20 = "Kr 8,-";
 $p_21 = "/mnd";
 $p_22 = "Full SSD";
@@ -104,14 +104,14 @@ $p_23 = "Disk";
 $p_24 = "Intel Xeon E5";
 $p_25 = "Prosessorer";
 $p_26 = "DDR4";
-$p_27 = "Ram Teknologi";
-$p_28 = "Drevet ved hjelp av Multicraft";
-$p_29 = "DDoS Beskyttet";
+$p_27 = "Ram Technology";
+$p_28 = "Powered by Multicraft";
+$p_29 = "DDoS Protected";
 $p_30 = "99.99% Opptid SLA";
 $p_31 = "1000 Mbit Uplink";
-$p_32 = "Legg til i handlekurv";
-$p_33 = "Dedikerte Servere";
-$p_34 = "Servere med høy ytelse for dine prosjekter.";
+$p_32 = "Add to cart";
+$p_33 = "Dedicated Servers";
+$p_34 = "Servers with high performance for your projects.";
 $p_35 = "Kr 188,-";
 $p_36 = "/mnd";
 $p_37 = "Full SSD";
@@ -119,17 +119,17 @@ $p_38 = "Disk";
 $p_39 = "Intel Xeon E5";
 $p_40 = "Prosessorer";
 $p_41 = "DDR4";
-$p_42 = "Ram Teknologi";
-$p_43 = "Drevet ved hjelp av SolusVM";
-$p_44 = "Dedikerte IP Adresser";
-$p_45 = "99.99% Opptid SLA";
+$p_42 = "Ram Technology";
+$p_43 = "Powered by SolusVM";
+$p_44 = "Dedicated IP Addresses";
+$p_45 = "99.99% uptime SLA";
 $p_46 = "1000 Mbit Uplink";
-$p_47 = "Legg til i handlekurv";
+$p_47 = "Add to cart";
 
 	#Datasentre
 	
-$m_title = "V&aring;rt globale nettverk";
-$m_01 = "Kart over tilgjengelige datasentrene";
+$m_title = "Our global network";
+$m_01 = "Map of available data centers";
 $m_02 = "Tyskland Berlin (DC01)";
 $m_03 = "Dallas";
 $m_04 = "New York";
@@ -147,37 +147,37 @@ $pos_08 = "left: 51.9%; top: 33%;";
 
 	#Sponsorer
 	
-$s_title = "V&aring;re Sponsorer";
-$s_01 = "Liste over prosjekter vi st&oslash;tter.";
+$s_title = "Our Sponsors";
+$s_01 = "List of projects we support";
 $s_02 = "FrostHeroes";
-$s_03 = "er en norsk Minecraft Server med fokus p&aring; kvalitet og sikkerhet.";
+$s_03 = "is a Norwegian Minecraft Server with a focus on quality and safety.";
 
 	#Bunn
 	
 $b_title = "Trenger du hjelp med &aring; plassere din f&oslash;rste tjeneste hos oss?";
-$b_01 = "V&aring;r kundeservice er alltid her for &aring; hjelpe deg med de riktige valgene.";
-$b_02 = "F&aring; hjelp";
+$b_01 = "Our customer service is always here to help you with the right choices.";
+$b_02 = "Get help";
 $b_03 = "About MCVert";
 $b_04 = "Vi gir deg p&aring;litelig, billig og kraftig server hosting.";
 $b_05 = "Social Media";
 $b_06 = "Facebook";
 $b_07 = "YouTube";
-$b_08 = "Produkter";
+$b_08 = "Products";
 $b_09 = "Minecraft Hosting";
 $b_10 = "VPS Hosting";
-$b_11 = "Dedikerte Servere";
+$b_11 = "Dedicated Servers";
 $b_12 = "Plugin Development";
-$b_13 = "Ressurser";
-$b_14 = "Egenskaper";
+$b_13 = "Resources";
+$b_14 = "Features";
 $b_15 = "Nettwork";
-$b_16 = "Personvern";
+$b_16 = "Privacy";
 $b_17 = "Kj&oslash;psvilk&aring;r";
 $b_18 = "More";
 $b_19 = "Discord";
-$b_20 = "Kundeservice";
+$b_20 = "Customer service";
 $b_21 = "© Copyright 2018 -";
 $b_22 = "MCVert Hosting Services. All rights reserved.";
-$b_23 = "I samarbeid med";
+$b_23 = "In partnership with";
 $b_24 = "FrostHeroes";
 
 	#Linker
