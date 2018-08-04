@@ -48,32 +48,32 @@ $meny_link_16 = "https://mcvert.net/portal/serverstatus.php";
 
 $slider_tittel1 = '<mark>Minecraft</mark> Hosting';
 $slider_navn1 = "Minecraft Hosting";
-$slider_tekst1 = "Full kvalitetsrik hosting med failover support og ddos beskyttelse, starter fra bare";
+$slider_tekst1 = "Full quality hosting hosting with failover support and ddos protection, starting from just";
 $slider_pris1 = "$0.80/month";
 $slider_link1 = "";
 
 $slider_tittel2 = '<mark>VPS</mark> Hosting';
 $slider_navn2 = "VPS Hosting";
-$slider_tekst2 = "Kraftige skyservere p&aring; bedriftsinfrastruktur med OpenVZ virtualisering, starter fra bare";
+$slider_tekst2 = "Powerful cloud servers on corporate infrastructure with OpenVZ virtualization, starting from just";
 $slider_pris2 = "$2.20/month";
 $slider_link2 = "";
 
 	#Fordeler
 
 $f_title = "Quality Minecraft Hosting";
-$f_01 = "Distribuer din Minecraft Server hos oss, og merk forskjellen.";
+$f_01 = "Distribute your Minecraft Server with us and notice the difference.";
 $f_02 = "H&oslash;y ytelse";
-$f_03 = "Vi opererer p&aring; h&oslash;y kvalitet og ytelsesfulle noder, med utvidet DDoS beskyttelse for &aring; sikre at v&aring;re noder alltid er online.";
+$f_03 = "We operate p & aring; high quality and full-performance performance, with extended DDoS protection to ensure that our nodes are always online.";
 $f_04 = "Always online";
-$f_05 = "V&aring;re tjenester tilbyr en 99,99% SLA oppetidsgaranti med full maskinvare og nettverksredundans for &aring; holde tjenestene dine online.";
+$f_05 = "Our services offer a 99.99% SLA uptime guarantee with full hardware and networking for & aring; Keep your services online.";
 $f_06 = "Secure Nodes";
-$f_07 = "Alle v&aring;re datasentre er Tier 4-sertifiserte og gir avansert brann- og inntrengningsbeskyttelse kombinert med maskinvare for enterprise networking.";
+$f_07 = "All our data centers are Tier 4 certified and provide advanced fire and intrusion protection combined with enterprise networking hardware.";
 $f_08 = "Instant activation";
-$f_09 = "Ditt bestilte produkt blir automatisk og umiddelbart aktivert etter at v&aring;rt system mottar den f&oslash;rste betalingen.";
+$f_09 = "Your ordered product will be automatically and immediately activated after the vending system receives the first payment.";
 $f_10 = "Dedicated Support";
-$f_11 = "V&aring;rt team er dedikert og kan hjelpe deg med alt du trenger hjelp til. Som betalt kunde f&aring;r du fri tilgang til v&aring;r premium kundeservice.";
+$f_11 = "Our team is dedicated and can help you with anything you need help. As a paid customer, you get free access to our premium customer service.";
 $f_12 = "Full Automation";
-$f_13 = "V&aring;rt system bruker de beste APIene for &aring; automatisere hver prosess, fra distribusjon av servere til &aring; motta IPN-meldinger.";
+$f_13 = "Our system uses the best APIs for & aring; automate each process, from server deployment to receive IPN messages.";
 
 	#Produkter
 	
@@ -154,11 +154,11 @@ $s_03 = "";
 
 	#Bunn
 	
-$b_title = "Trenger du hjelp med &aring; plassere din f&oslash;rste tjeneste hos oss?";
+$b_title = "Need help placing your first service with us?";
 $b_01 = "Our customer service is always here to help you with the right choices.";
 $b_02 = "Get help";
 $b_03 = "About MCVert";
-$b_04 = "Vi gir deg p&aring;litelig, billig og kraftig server hosting.";
+$b_04 = "We provide you with reliable, inexpensive and powerful server hosting.";
 $b_05 = "Social Media";
 $b_06 = "Facebook";
 $b_07 = "YouTube";
@@ -171,7 +171,7 @@ $b_13 = "Resources";
 $b_14 = "Features";
 $b_15 = "Nettwork";
 $b_16 = "Privacy";
-$b_17 = "Kj&oslash;psvilk&aring;r";
+$b_17 = "Terms & Conditions";
 $b_18 = "More";
 $b_19 = "Discord";
 $b_20 = "Customer service";
