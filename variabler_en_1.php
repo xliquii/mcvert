@@ -6,7 +6,7 @@ $tittel = "MCVert &bull; EU's Cheapest Host!";
 $navn = "MCVert";
 $logo = "https://media.discordapp.net/attachments/392365314022703105/408663365909479424/mcvert.png";
 
-$meta_desc = "MCVert er for deg som vil ha Minecraft Servere i kvalitet. Vi leverer premium support & mulighet for hjelp med plugins.";
+$meta_desc = "MCVert is for you who want Minecraft Servers in quality. We provide premium support & opportunity for plugins help.";
 $meta_tags = "mcvert, minecraft, hosting, mc, host, vert, spill, gaming, server, vps, dedikert, dedicated";
 
 	#Meny
