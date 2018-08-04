@@ -62,10 +62,10 @@ $slider_link2 = "";
 
 $f_title = "Quality Minecraft Hosting";
 $f_01 = "Distribute your Minecraft Server with us and notice the difference.";
-$f_02 = "H&oslash;y ytelse";
+$f_02 = "High quality";
 $f_03 = "We operate p & aring; high quality and full-performance performance, with extended DDoS protection to ensure that our nodes are always online.";
 $f_04 = "Always online";
-$f_05 = "Our services offer a 99.99% SLA uptime guarantee with full hardware and networking for & aring; Keep your services online.";
+$f_05 = "Our services offer a 99.99% SLA uptime guarantee with full hardware and networking for keep your services online.";
 $f_06 = "Secure Nodes";
 $f_07 = "All our data centers are Tier 4 certified and provide advanced fire and intrusion protection combined with enterprise networking hardware.";
 $f_08 = "Instant activation";
