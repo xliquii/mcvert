@@ -73,7 +73,7 @@ $f_09 = "Your ordered product will be automatically and immediately activated af
 $f_10 = "Dedicated Support";
 $f_11 = "Our team is dedicated and can help you with anything you need help. As a paid customer, you get free access to our premium customer service.";
 $f_12 = "Full Automation";
-$f_13 = "Our system uses the best APIs for & aring; automate each process, from server deployment to receive IPN messages.";
+$f_13 = "Our system uses the best APIs for automate each process, from server deployment to receive IPN messages.";
 
 	#Produkter
 	
