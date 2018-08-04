@@ -177,8 +177,8 @@ $b_19 = "Discord";
 $b_20 = "Customer service";
 $b_21 = "© Copyright 2018 -";
 $b_22 = "MCVert Hosting Services. All rights reserved.";
-$b_23 = "In partnership with";
-$b_24 = "FrostHeroes";
+$b_23 = "";
+$b_24 = "";
 
 	#Linker
 	
