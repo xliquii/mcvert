@@ -11,7 +11,7 @@ $meta_tags = "mcvert, minecraft, hosting, mc, host, vert, spill, gaming, server,
 
 	#Meny
 
-$meny_tekst_1 = "LOL";
+$meny_tekst_1 = "Change";
 $meny_link_1 = "#";
 $meny_tekst_2 = "Minecraft Hosting";
 $meny_link_2 = "https://mcvert.net/portal/cart.php?gid=1";
