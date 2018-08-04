@@ -149,7 +149,7 @@ $pos_08 = "left: 51.9%; top: 33%;";
 	
 $s_title = "Our Sponsors";
 $s_01 = "List of projects we support";
-$s_02 = "FrostHeroes";
+$s_02 = "";
 $s_03 = "is a Norwegian Minecraft Server with a focus on quality and safety.";
 
 	#Bunn
